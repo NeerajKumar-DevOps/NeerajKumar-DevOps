@@ -27,11 +27,16 @@
 ---
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NeerajKumar-DevOps&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NeerajKumar-DevOps&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajKumar-DevOps&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeerajKumar-DevOps&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajKumar-DevOps&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NeerajKumar-DevOps&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 ## 🔥 Profile Views
 
