@@ -29,8 +29,6 @@
 
 # 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajKumar-DevOps&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NeerajKumar-DevOps&theme=tokyonight&hide_border=true&cache_seconds=1800" />
@@ -38,8 +36,9 @@
 
 ## 🔥 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=NeerajKumar-DevOps&color=blue)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NeerajKumar-DevOps&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 ---
 
 ## 🚀 Goals
