@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neeraj Kumar
 
-🚀 **DevSecOps Engineer | 2.5+ Years Experience | Cloud & SRE Enthusiast**
+🚀 **DevSecOps Engineer | 2.5+ Years Experience | DevSecOps & SRE Enthusiast**
 
 ---
 
